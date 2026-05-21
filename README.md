@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sathya</h1>
@@ -7,137 +7,86 @@
 <h3 align="center">🚀 MERN Stack Developer | AI Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=007BFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Real+World+Web+Apps;Learning+AI+Full+Stack+Development" />
+A Passionate Full Stack Developer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **MERN Stack Projects**
-- 🌱 Learning **AI Full Stack Development**
-- 💻 Completed **MERN Stack Developer Course**
-- 🚀 Passionate about **Full Stack Web Development**
-- 🧠 Interested in **AI + Web Development**
-- 📍 Chennai, India
-- 🎯 Goal: Become a professional Full Stack Developer
+- 💻 Currently working on **MERN Stack Development**
+- 🌱 Currently learning **AI Full Stack Development**
+- 💬 Ask me about **Frontend & Backend Technologies**
+- 📍 Tirupur, India
+- 🚀 Goal: Become AI Full Stack Developer
 
 ---
 
-## 🛠 My Technical Skills
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏡 Real Estate MERN App
-
-A full-stack real estate application with authentication, property listing, booking system, admin dashboard, and responsive UI.
-
-**Features**
-- User Login/Register
-- Property Listing
-- Booking System
-- Admin Dashboard
-- Responsive Design
-
-**Tech Used:** React | Node.js | Express.js | MongoDB | JWT
-
----
-
-### 🔐 Password Reset Authentication App
-
-A secure authentication system with forgot password and reset password functionality.
-
-**Features**
-- User Registration
-- Login Authentication
-- Forgot Password
-- Reset Password Token
-- Email Verification
-
-**Tech Used:** React | Node.js | Express.js | MongoDB | SendGrid
-
----
-
-### 🎬 Movie Search App
-
-A movie search application with API integration, movie details, pagination, and favorites.
-
-**Features**
-- Search Movies
-- View Movie Details
-- Add Favorites
-- Pagination
-- Responsive UI
-
-**Tech Used:** React | API | CSS
-
----
-
-## 📊 GitHub Stats
+## 🚀 My Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathyasweety3573-max&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sathyasweety3573-max&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyasweety3573-max&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,nodejs,mongodb" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- AI Full Stack Development
-- AI Integration in Web Apps
-- Advanced React.js
-- Backend API Development
-- Prompt Engineering Basics
-
----
-
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sathyasweety3573-max">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
 
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+---
+
+## ⚡ My Technical & All Over Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <a href="https://github.com/sathyasweety3573-max?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sathyasweety3573-max">
+    <img src="https://img.shields.io/badge/View%20Pinned%20Projects-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathyasweety3573-max&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">
-  ✨ Thanks for visiting my profile ✨
+✨ Thanks for visiting my profile ✨
 </p>
