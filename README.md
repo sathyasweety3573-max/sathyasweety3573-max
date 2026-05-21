@@ -31,7 +31,7 @@ A Passionate Fullstack Developer
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-m-951167286/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_LINK">
